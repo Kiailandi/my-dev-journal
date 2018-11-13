@@ -8,3 +8,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | :------: | ------ | ------ | ------ | :------: |
 | React | [The Complete React Web Developer Course](https://completereactcourse.com/) | [first-react-course-project](https://github.com/Kiailandi/first-react-course-project) | 13/01/18 | ??? |
 | CSS Grid | [CSS GRID by WES BOS](https://cssgrid.io) | [Priority Matrix](https://github.com/Kiailandi/priority-matrix) | 16/06/18 | ??? |
+| React Testing | [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook) | | 11/11/18 | 12/11/18 |

@@ -12,3 +12,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | React | [Advanced React](https://advancedreact.com) | Wes Bos |||
 | React Tooling | [Modern JavaScript Tooling with React](https://egghead.io/courses/modern-javascript-tooling-with-react) | Andy Van Slaars | 15/12/18 | 19/12/18 |
 | TypeScript | [Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript) | Rares Matei | 19/12/18 | 20/12/18 |
+| Apollo | [GraphQL Data in React with Apollo Client](https://egghead.io/courses/graphql-data-in-react-with-apollo-client) | Nik Graf | 20/12/18 | 20/12/18 |

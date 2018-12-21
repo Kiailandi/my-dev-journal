@@ -14,4 +14,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | TypeScript | [Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript) | Rares Matei | 19/12/18 | 20/12/18 |
 | Apollo | [GraphQL Data in React with Apollo Client](https://egghead.io/courses/graphql-data-in-react-with-apollo-client) | Nik Graf | 20/12/18 | 20/12/18 |
 | Algorithms | [Algorithms in JavaScript](https://egghead.io/courses/algorithms-in-javascript) | Tyler Clark | 21/12/18 ||
-| React Testing | [Test React Components with Enzyme and Jest](https://egghead.io/courses/test-react-components-with-enzyme-and-jest) | Tyler Clark | 21/12/18 ||
+| React Testing | [Test React Components with Enzyme and Jest](https://egghead.io/courses/test-react-components-with-enzyme-and-jest) | Tyler Clark |||

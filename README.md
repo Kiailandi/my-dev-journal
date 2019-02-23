@@ -15,5 +15,5 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | Apollo | [GraphQL Data in React with Apollo Client](https://egghead.io/courses/graphql-data-in-react-with-apollo-client) | Nik Graf | 20/12/18 | 20/12/18 |
 | Algorithms | [Algorithms in JavaScript](https://egghead.io/courses/algorithms-in-javascript) | Tyler Clark | 21/12/18 | 05/01/19 |
 | React Testing | [Test React Components with Enzyme and Jest](https://egghead.io/courses/test-react-components-with-enzyme-and-jest) | Tyler Clark | 05/01/19 | 05/01/19 |
-| Cypress E2E Testing | [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress) | Andy Van Slaars | 24/01/19 ||
+| Cypress E2E Testing | [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress) | Andy Van Slaars | 24/01/19 | 23/02/19 |
 | Angular | [Angular Fundamentals](https://angularfundamentals.com/) | Fabio Biondi |||

@@ -18,4 +18,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | Cypress E2E Testing | [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress) | Andy Van Slaars | 24/01/19 | 23/02/19 |
 | Angular | [Angular Fundamentals](https://angularfundamentals.com/) | Fabio Biondi |||
 | Bash | [Automate Daily Development Tasks with Bash](https://egghead.io/courses/automate-daily-development-tasks-with-bash) | Cameron Nokes | 14/03/19 | 14/03/19 |
-| Bash | [Advanced Bash Automation for Web Developers](https://egghead.io/courses/advanced-bash-automation-for-web-developers) | Cameron Nokes | 14/03/19 ||
+| Bash | [Advanced Bash Automation for Web Developers](https://egghead.io/courses/advanced-bash-automation-for-web-developers) | Cameron Nokes | 14/03/19 | 16/03/19 |

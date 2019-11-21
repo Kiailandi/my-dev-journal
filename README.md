@@ -20,3 +20,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | Bash | [Automate Daily Development Tasks with Bash](https://egghead.io/courses/automate-daily-development-tasks-with-bash) | Cameron Nokes | 14/03/19 | 14/03/19 |
 | Bash | [Advanced Bash Automation for Web Developers](https://egghead.io/courses/advanced-bash-automation-for-web-developers) | Cameron Nokes | 14/03/19 | 16/03/19 |
 | ZSH | [Command Line Power User](https://commandlinepoweruser.com/) | Wes Bos | 05/11/19 | 05/11/19 |
+| NgRx | [Mastering NgRx](https://mastering-ngrx.it) | Fabio Biondi | 21/11/19 | 21/11/19 |

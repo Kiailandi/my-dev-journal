@@ -21,3 +21,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | Bash | [Advanced Bash Automation for Web Developers](https://egghead.io/courses/advanced-bash-automation-for-web-developers) | Cameron Nokes | 14/03/19 | 16/03/19 |
 | ZSH | [Command Line Power User](https://commandlinepoweruser.com/) | Wes Bos | 05/11/19 | 05/11/19 |
 | NgRx | [Mastering NgRx](https://mastering-ngrx.it) | Fabio Biondi | 21/11/19 | 21/11/19 |
+| Redux | [Learn Redux](https://learnredux.com/) | Wes Bos | 20/01/2021 | 24/01/2021 |

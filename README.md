@@ -20,4 +20,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | ZSH | [Command Line Power User](https://commandlinepoweruser.com/) | Wes Bos | 05/11/19 | 05/11/19 |
 | NgRx | [Mastering NgRx](https://mastering-ngrx.it) | Fabio Biondi | 21/11/19 | 21/11/19 |
 | Redux | [Learn Redux](https://learnredux.com/) | Wes Bos | 20/01/2021 | 24/01/2021 |
-| Next.js | [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) | Brad Traversy | 27/01/2021 | |
+| Next.js | [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) | Brad Traversy | 27/01/2021 | 30/01/2021 |

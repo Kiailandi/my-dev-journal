@@ -22,3 +22,4 @@ This is a step by step journal (starting from January 2018) of my journey toward
 | Redux | [Learn Redux](https://learnredux.com/) | Wes Bos | 20/01/2021 | 24/01/2021 |
 | Next.js | [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) | Brad Traversy | 27/01/2021 | 30/01/2021 |
 | Gatsby | [Master Gatsby](https://mastergatsby.com/) | Wes Bos | 30/01/2021 ||
+| Tailwind CSS | [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME) | Brad Traversy | 13/02/2021 ||
